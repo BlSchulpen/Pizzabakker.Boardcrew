@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7YTywEsz+kg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\brams\\RiderProjects\\Pizzabakker.Boardcrew\\Pizzabakker.Boardcrew.API\\Pizzabakker.Boardcrew.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brams\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\brams\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512",
+    "C:\\Users\\brams\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
